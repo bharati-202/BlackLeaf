@@ -46,6 +46,10 @@ BlackLeaf/
 - Add new plant information or blog posts as needed.
 - View and manage your plant data and blog content.
 
+## Future Plans
+
+- The project will be converted to React in the future for better performance, scalability, and enhanced user experience.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
